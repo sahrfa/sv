@@ -4,7 +4,7 @@
 const studentData = {
   "batch_1": [
     { name: "Rafiq Islam", institution: "Rajshahi College", grade: "A", phone: "01712345601" },
-    { name: "Sabina Yasmin", institution: "Rajshahi Girls' School", grade: "A+", phone: "01812345602" },
+    { name: "Yasmin", institution: "Rajshahi Girls' School", grade: "A+", phone: "01812345602" },
     { name: "Karim Ahmed", institution: "Rajshahi Collegiate School", grade: "A-", phone: "01912345603" },
     { name: "Karim Ahmed", institution: "Rajshahi Collegiate School", grade: "A-", phone: "01912345603" },
     { name: "Karim Ahmed", institution: "Rajshahi Collegiate School", grade: "A-", phone: "01912345603" },
